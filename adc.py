@@ -11,7 +11,6 @@ print ("[" + (time.strftime("%H:%M:%S")) + "]" + " #               ADC ACC GEN  
 print ("[" + (time.strftime("%H:%M:%S")) + "]" + " #          Developed by @mxnnxt            #")
 print ("[" + (time.strftime("%H:%M:%S")) + "]" + " ############################################\n")
 
-#domain = "@timetogetdxdson.net"
 
 times = int(input("[" + (time.strftime("%H:%M:%S") + "]" + " - Enter the number of accounts you would like: ")))
 domain = input("[" + (time.strftime("%H:%M:%S") + "]" + " - Enter your domain (ex: domain.com): "))
