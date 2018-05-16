@@ -10,7 +10,8 @@ Creates accounts on Adidas
 Python 3.6
 Requests (pip install requests)
 Random (pip install random)
-proxymanager (pip install proxy-manager)
+Time (pip install time)
+BS4 (pip install bs4)
 ```
 
 ### What are some of its features?
