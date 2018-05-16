@@ -11,7 +11,6 @@ Python 3.6
 Requests (pip install requests)
 Random (pip install random)
 proxymanager (pip install proxy-manager)
-
 ```
 
 ### What are some of its features?
@@ -19,7 +18,6 @@ proxymanager (pip install proxy-manager)
 Creates accounts with NO CAPTCHA REQUIRED
 Domain Support
 Saves in txt file
-
 ```
 
 ### Instructions?
@@ -27,5 +25,4 @@ Saves in txt file
 Install all requirements
 Open Terminal/CMD
 Type python adc.py then hit Enter
-
 ```
